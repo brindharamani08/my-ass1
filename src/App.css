@@ -1,0 +1,17 @@
+.app {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #fce4ec, #e3f2fd);
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 24px;
+  font-family: "Segoe UI", Arial, sans-serif;
+}
+.dashboard {
+  width: 100%;
+  max-width: 640px;
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+}

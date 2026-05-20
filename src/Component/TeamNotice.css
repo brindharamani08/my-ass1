@@ -1,0 +1,19 @@
+.notice-card {
+  background-color: #ffe4d6;
+  padding: 16px 20px;
+  border-radius: 12px;
+  margin-bottom: 16px;
+  border-left: 5px solid #e74c3c;
+}
+.notice-card h3 {
+  margin: 0 0 6px;
+  font-size: 18px;
+  color: #6b1a1a;
+}
+.notice-card p {
+  margin: 0;
+  font-size: 15px;
+  color: #c0392b;
+  font-weight: 600;
+}
+ 

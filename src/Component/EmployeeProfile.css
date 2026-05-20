@@ -1,0 +1,16 @@
+.profile-card {
+  background-color: #d6ecff;
+  padding: 16px 20px;
+  border-radius: 12px;
+  margin-bottom: 16px;
+}
+.profile-card h3 {
+  margin: 0 0 8px;
+  font-size: 18px;
+  color: #1a3a6b;
+}
+.profile-card p {
+  margin: 4px 0;
+  font-size: 15px;
+  color: #333;
+}
